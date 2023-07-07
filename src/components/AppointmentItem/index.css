@@ -1,0 +1,12 @@
+.list-background {
+  border-style: solid;
+  border-radius: 25px;
+  width: 15vw;
+  height: 15vh;
+  border-width: 1px;
+  padding: 2px;
+}
+.list-background1 {
+  display: flex;
+  justify-content: space-between;
+}
